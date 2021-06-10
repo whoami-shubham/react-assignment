@@ -4,4 +4,4 @@
 
 ### Routes
         /      - Home page
-       /likes  - likeed users 
+       /likes  - liked users 
